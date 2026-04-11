@@ -15,10 +15,10 @@ I build intelligent, secure, and real-time systems combining:
 ### 🔐 Sentinel AI (In Progress)
 AI-powered real-time security system with ML + LLM integration.
 
-### 💬 TALKY
+### 💬 TALKY (In Progress)
 High-performance messaging system using React + C++ + WebSockets.
 
-### 🤖 Chiggabot
+### 🤖 Chiggabot (In Progress)
 Local AI agent with RAG, code execution, and multi-language support.
 
 ### 🛡️ SOC AI API
